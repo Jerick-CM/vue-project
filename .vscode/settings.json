@@ -1,0 +1,16 @@
+{
+    "less.completion.completePropertyWithSemicolon": false,
+    "less.hover.documentation": false,
+    "less.completion.triggerPropertyValueCompletion": false,
+    "prettier.bracketSpacing": false,
+    "prettier.arrowParens": "avoid",
+    "prettier.embeddedLanguageFormatting": "off",
+    "prettier.enable": false,
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "prettier.proseWrap": "never",
+    "prettier.semi": false,
+    "prettier.trailingComma": "none",
+    "prettier.useEditorConfig": false,
+    "prettier.endOfLine": "auto",
+    "prettier.quoteProps": "preserve"
+}
